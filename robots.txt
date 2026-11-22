@@ -1,0 +1,6 @@
+# robots.txt for https://pavandev.in
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://pavandev.in/sitemap.xml

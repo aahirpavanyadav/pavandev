@@ -1,0 +1,17 @@
+{
+  "name": "Aahir Pavan Yadav — Portfolio",
+  "short_name": "PavanDev",
+  "description": "Personal developer portfolio of Aahir Pavan Yadav — Software Developer, Tech Lead, Builder.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "assets/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
